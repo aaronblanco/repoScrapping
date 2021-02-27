@@ -1,0 +1,47 @@
+[
+  {
+    "nombre": "F-1",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7c/F1.png/revision/latest/scale-to-width-down/200?cb=20200216033036",
+    "expDelay": "3.5 sec\n",
+    "expRadius": "3 - 7 meters\n",
+    "maxDmg": "80\n",
+    "frag": "90\n",
+    "description": "F-1 hand grenade (GRAU Index 57-Г-721) is an anti-personnel fragmentation defensive grenade, designed for neutralizing enemy personnel in the defensive combat. Due to significant effective fragmentation radius it can only be thrown from behind the cover, APC or tank.\n"
+  },
+  {
+    "nombre": "M67",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e2/M67.png/revision/latest/scale-to-width-down/200?cb=20200216033043",
+    "expDelay": "5\n",
+    "expRadius": "3 - 8 meters\n",
+    "maxDmg": "110\n",
+    "frag": "75\n",
+    "description": "M67 grenade (M67 Fragmentation Hand Grenade) is an American hand grenade, designed for antipersonnel combat purposes and adopted in 1969 by the army of the United States.\n"
+  },
+  {
+    "nombre": "RGD-5",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Rgd5.png/revision/latest/scale-to-width-down/200?cb=20201001185254",
+    "expDelay": "3.5 sec\n",
+    "expRadius": "3 - 7 meters\n",
+    "maxDmg": "100\n",
+    "frag": "70\n",
+    "description": "RGD-5 (Distance Hand Grenade, mod. 5) is classified as antipersonnel fragmentation time-delayed offensive hand grenade. Igniter delay time 3,2—4,2 seconds. Due to offensive type of the grenade, fragments are relatively light and have a smaller radius of dispersion.\n"
+  },
+  {
+    "nombre": "VOG-17",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/94/Vog17.png/revision/latest/scale-to-width-down/200?cb=20200316073547",
+    "expDelay": "3 sec\n",
+    "expRadius": "2 - 6 meters\n",
+    "maxDmg": "120\n",
+    "frag": "100\n",
+    "description": "DIY hand grenade based on a VOG-17 grenade called \"Khattabka\". The grenade is VOG-17 explosive projectile, with the removed head part, containing the detonator and self-destructor.\n"
+  },
+  {
+    "nombre": "VOG-25",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7d/Vog25.png/revision/latest/scale-to-width-down/200?cb=20200316073837",
+    "expDelay": "2 sec\n",
+    "expRadius": "2 - 7 meters\n",
+    "maxDmg": "65\n",
+    "frag": "35\n",
+    "description": "Hand-made hand grenade \"Khattabka\" based on a VOG-25 grenade. The grenade is a VOG-25 grenade with a removed warhead, added a detonator and self-destructor. A short fuse has been installed to speed up the ignition.\n"
+  }
+]

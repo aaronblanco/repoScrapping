@@ -1,0 +1,21 @@
+{
+  "name": "reposcrapping",
+  "version": "1.0.0",
+  "description": "repo scrapping",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrapping"
+  ],
+  "author": "Aarón Blanco Álvarez, Tesifón Robles Marin, José María Morales Miñarro, Francisco José Martínez Simón",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "jsonfile": "^6.1.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^8.0.0"
+  }
+}

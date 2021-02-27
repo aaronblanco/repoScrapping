@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "NSV \"Utes\"",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/NSVUtes.jpg/revision/latest/scale-to-width-down/180?cb=20191103134116",
+    "cartidge": "12.7x108mm",
+    "firingModes": "Full Auto\n",
+    "rateFire": "\n"
+  },
+  {
+    "nombre": "AGS-30",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/AGS30.png/revision/latest/scale-to-width-down/180?cb=20191103134146",
+    "cartidge": "30x29mm",
+    "firingModes": "Full Auto\n",
+    "rateFire": "\n"
+  }
+]

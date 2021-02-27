@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "RDG-2B",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/RDG-2B_Smoke_grenade.png/revision/latest/scale-to-width-down/200?cb=20200216033106",
+    "expDelay": "3.5 sec\n",
+    "description": ""
+  },
+  {
+    "nombre": "Zarya",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8d/Zarya_stun_grenade.png/revision/latest/scale-to-width-down/200?cb=20200216033057",
+    "expDelay": "2 sec\n",
+    "description": ""
+  }
+]

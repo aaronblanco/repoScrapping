@@ -1,0 +1,128 @@
+[
+  {
+    "nombre": "6h5 Bayonet",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/6h5_Bayonet.PNG/revision/latest/scale-to-width-down/200?cb=20181230182949",
+    "chopDmg": "18\n",
+    "chopRange": "0.40m\n",
+    "stabDmg": "23\n",
+    "stabRange": "0.50m\n",
+    "description": "The so-called item 6H5 is a knife bayonet adopted in 1989 as a standard issue for use with AK74.\n"
+  },
+  {
+    "nombre": "Antique axe",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/Antique_Axe.png/revision/latest/scale-to-width-down/200?cb=20181110013042",
+    "chopDmg": "26\n",
+    "chopRange": "0.45m\n",
+    "stabDmg": "44\n",
+    "stabRange": "0.50m\n",
+    "description": "Antique axe with a damaged handle that belonged to the ancient clan of hatchlings called WYCC.\n"
+  },
+  {
+    "nombre": "Bars A-2607- 95x18",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ac/Bars_A-2607-_95x18.png/revision/latest/scale-to-width-down/200?cb=20200624181808",
+    "chopDmg": "16\n",
+    "chopRange": "0.35m\n",
+    "stabDmg": "21\n",
+    "stabRange": "0.45m\n",
+    "description": "A Bars knife A-2607, forged of 95x18 steel with fine wood handle and brass guard.\n"
+  },
+  {
+    "nombre": "Bars A-2607- Damascus",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/Bars_A-2607-_Damascus.png/revision/latest/scale-to-width-down/200?cb=20180427004739",
+    "chopDmg": "15\n",
+    "chopRange": "0.35m\n",
+    "stabDmg": "21\n",
+    "stabRange": "0.45m\n",
+    "description": "A Bars knife A-2607, manufactured of damascus steel with wenge handle and brass guard.\n"
+  },
+  {
+    "nombre": "Camper axe",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/X7_axe.png/revision/latest/scale-to-width-down/186?cb=20191126085131",
+    "chopDmg": "30\n",
+    "chopRange": "0.45m\n",
+    "stabDmg": "32\n",
+    "stabRange": "0.55m\n",
+    "description": "Universal travel axe for use in field conditions or at the farm.\n"
+  },
+  {
+    "nombre": "Crash Axe",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/Crash_axe.png/revision/latest/scale-to-width-down/200?cb=20181231155808",
+    "chopDmg": "26\n",
+    "chopRange": "0.45m\n",
+    "stabDmg": "44\n",
+    "stabRange": "0.50m\n",
+    "description": "Designed as a tool for working with hard surfaces. Materials and construction are designed to provide optimal impact and strength. The head of the axe is made of 6AL4V titanium with a thickness of 2.85 inches.\n"
+  },
+  {
+    "nombre": "Cultist's knife",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/Cultist_Knife_View.png/revision/latest/scale-to-width-down/200?cb=20201224232332",
+    "chopDmg": "18\n",
+    "chopRange": "0.35m\n",
+    "stabDmg": "23\n",
+    "stabRange": "0.45m\n",
+    "description": "A knife of a strange shape and with strange signs, taken from the сultists. Apparently, it is used as a ritual knife, but, it is not limited to this use for sure. It has technological changes in the design intended for the use of toxic substances - it is better not to touch the blade.\n"
+  },
+  {
+    "nombre": "ER Fulcrum Bayonet",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/69/ER_Fulcrum_Bayonet.png/revision/latest/scale-to-width-down/200?cb=20180427004728",
+    "chopDmg": "17\n",
+    "chopRange": "0.40m\n",
+    "stabDmg": "18\n",
+    "stabRange": "0.50m\n",
+    "description": "Extrema Ratio developed its Fulcrum knife by the order of Italian Alpine Troops Headquarters, who required a multipurpose knife suitable for the infantry, a knife that could be used in any action and that could successfully solve any type of problem even where more specialized equipment proved inadequate. It was so successful that the multipurpose knife then led to the development of the Fulcrum Bayonet, which had the same characteristics but could be fixed to the issued rifle.\n"
+  },
+  {
+    "nombre": "Freeman crowbar",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/Freeman-Crowbar-Ins.png/revision/latest/scale-to-width-down/200?cb=20181228203614",
+    "chopDmg": "16\n",
+    "chopRange": "0.50m\n",
+    "stabDmg": "22\n",
+    "stabRange": "0.60m\n",
+    "description": "Steel and reliable crowbar by Freeman company. Caution! May lead to resonance cascade.\n"
+  },
+  {
+    "nombre": "Kiba Arms Tactical Tomahawk",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/Gerber_Downrange_Tomahawk.png/revision/latest/scale-to-width-down/200?cb=20191227191715",
+    "chopDmg": "25\n",
+    "chopRange": "0.50m\n",
+    "stabDmg": "35\n",
+    "stabRange": "0.60m\n",
+    "description": "Tactical tomahawk, multitool and breaching tool, all-in-one solution.\n"
+  },
+  {
+    "nombre": "Miller Bros. Blades M-2 Tactical Sword",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/74/M-2_Tactical_Sword.PNG/revision/latest/scale-to-width-down/200?cb=20181230182911",
+    "chopDmg": "34\n",
+    "chopRange": "0.70m\n",
+    "stabDmg": "48\n",
+    "stabRange": "0.70m\n",
+    "description": "Short tactical sword.\n"
+  },
+  {
+    "nombre": "MPL-50 entrenching tool",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/MPL-50_entrenching_tool.PNG/revision/latest/scale-to-width-down/200?cb=20181230183056",
+    "chopDmg": "18\n",
+    "chopRange": "0.55m\n",
+    "stabDmg": "32\n",
+    "stabRange": "0.65m\n",
+    "description": "The MPL-50 is a small spade. While nominally an entrenching tool, MPL-50 saw a wide range of wartime applications ranging from a close quarters combat weapon to a cooking utensil.\n"
+  },
+  {
+    "nombre": "Red Rebel Ice pick",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7c/Rebel_Adze_Axe.png/revision/latest/scale-to-width-down/200?cb=20181230182752",
+    "chopDmg": "25\n",
+    "chopRange": "0.60m\n",
+    "stabDmg": "30\n",
+    "stabRange": "0.65m\n",
+    "description": "Perfectly balanced ice axe, the tip is made of a single piece of hardened metal.\n"
+  },
+  {
+    "nombre": "SP-8 Survival Machete",
+    "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/SP-8_Survival_Machete.PNG/revision/latest/scale-to-width-down/200?cb=20181230183111",
+    "chopDmg": "28\n",
+    "chopRange": "0.50m\n",
+    "stabDmg": "37\n",
+    "stabRange": "0.60m\n",
+    "description": "SP8 is a survival machete made of a single piece of high carbon steel.\n"
+  }
+]
