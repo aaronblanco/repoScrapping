@@ -61,6 +61,7 @@ async function init(){
    
     tabla.each((index, element)=>{
         var nombre = $(element).find('td:first-child > a').text();
+        
         var img = $(element).find('th > a > img').attr("src");
         var cartidge = $(element).find('td:nth-child(3) > a').text();
         var firingModes = $(element).find('td:nth-child(4) ').text();
@@ -99,7 +100,6 @@ async function init(){
         this.granadas.push(granada);
     })
 
-    
     this.granadas.shift();
 
     tabla = $('#mw-content-text > div > table:nth-child(n+35):nth-child(-n+37) > tbody > tr')
@@ -117,13 +117,7 @@ async function init(){
     this.uGranadas.shift();
     this.uGranadas.splice(1,1)
     
-    /*
-    this.armas
-    this.armasStationary
-    this.armasMelee
-    this.granadas
-    this.uGranadas
-   */
+
     var file = './temp/armas.json'
 
     jsonFile.writeFile(file, armas, {spaces: 2}).then(res => {
