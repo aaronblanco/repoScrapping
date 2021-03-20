@@ -4,13 +4,21 @@
     "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/NSVUtes.jpg/revision/latest/scale-to-width-down/180?cb=20191103134116",
     "cartidge": "12.7x108mm",
     "firingModes": "Full Auto\n",
-    "rateFire": "\n"
+    "rateFire": "\n",
+    "href": "https://escapefromtarkov.gamepedia.com/NSV_%22Utes%22",
+    "extra": {
+      "type": "Heavy machine gun"
+    }
   },
   {
     "nombre": "AGS-30",
     "image": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/AGS30.png/revision/latest/scale-to-width-down/180?cb=20191103134146",
     "cartidge": "30x29mm",
     "firingModes": "Full Auto\n",
-    "rateFire": "\n"
+    "rateFire": "\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AGS_30x29_mm_automatic_grenade_launcher",
+    "extra": {
+      "type": "Grenade launcher"
+    }
   }
 ]

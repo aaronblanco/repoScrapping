@@ -5,7 +5,11 @@
     "cartidge": "5.56x45mm NATO",
     "firingModes": "Single\n",
     "rateFire": "800\n",
-    "description": "Russian civilian carbine ADAR 2-15 is based on the design of the AR-15. Carbine is produced in St. Petersburg with use of Israeli components and chrome barrels made by \"Molot Oruzhie\".\n"
+    "description": "Russian civilian carbine ADAR 2-15 is based on the design of the AR-15. Carbine is produced in St. Petersburg with use of Israeli components and chrome barrels made by \"Molot Oruzhie\".\n",
+    "href": "https://escapefromtarkov.gamepedia.com/ADAR_2-15",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AK-101",
@@ -13,7 +17,11 @@
     "cartidge": "5.56x45mm NATO",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "Export version of a Kalashnikov chambered in 5.56 mm assault rifle also equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n"
+    "description": "Export version of a Kalashnikov chambered in 5.56 mm assault rifle also equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AK-101",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AK-102",
@@ -21,7 +29,11 @@
     "cartidge": "5.56x45mm NATO",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "600\n",
-    "description": "Short, export version of a Kalashnikov 5.56 mm assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n"
+    "description": "Short, export version of a Kalashnikov 5.56 mm assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AK-102",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AK-103",
@@ -29,7 +41,11 @@
     "cartidge": "7.62x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "600\n",
-    "description": "Kalashnikov 7.62 mm assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n"
+    "description": "Kalashnikov 7.62 mm assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AK-103",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AK-104",
@@ -37,7 +53,11 @@
     "cartidge": "7.62x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "600\n",
-    "description": "Short Kalashnikov 7.62 mm assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n"
+    "description": "Short Kalashnikov 7.62 mm assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AK-104",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AK-105",
@@ -45,7 +65,11 @@
     "cartidge": "5.45x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "600\n",
-    "description": "Short Kalashnikov 5.45 mm modernized assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n"
+    "description": "Short Kalashnikov 5.45 mm modernized assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AK-105",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AK-74",
@@ -53,7 +77,11 @@
     "cartidge": "5.45x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "Kalashnikov 5.45 mm assault rifle, developed in 1970 by М. Т. Kalashnikov, became a further evolution of AKM due to adoption of the new 5.45x39 ammunition by the military.\n"
+    "description": "Kalashnikov 5.45 mm assault rifle, developed in 1970 by М. Т. Kalashnikov, became a further evolution of AKM due to adoption of the new 5.45x39 ammunition by the military.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AK-74",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AK-74M",
@@ -61,7 +89,11 @@
     "cartidge": "5.45x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "Kalashnikov 5.45 mm modernized assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n"
+    "description": "Kalashnikov 5.45 mm modernized assault rifle equipped with a side-folding shoulder stock and a side mount for optical and night scopes.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AK-74M",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AK-74N",
@@ -69,7 +101,11 @@
     "cartidge": "5.45x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "Kalashnikov 5.45 mm assault rifle, developed in 1970 by M. T. Kalashnikov, became a further evolution of AKM due to adoption of the new 5.45x39 ammunition by the military. The key design difference from the standard AK-74 is a side mount for optical and night scopes.\n"
+    "description": "Kalashnikov 5.45 mm assault rifle, developed in 1970 by M. T. Kalashnikov, became a further evolution of AKM due to adoption of the new 5.45x39 ammunition by the military. The key design difference from the standard AK-74 is a side mount for optical and night scopes.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AK-74N",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AKM",
@@ -77,7 +113,11 @@
     "cartidge": "7.62x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "600\n",
-    "description": "Modernized 7.62mm Kalashnikov, adopted in 1959 to replace AK as a standard service weapon of the Soviet Army. Main differences, compared to AK: enhanced accuracy range, lower weight, new stock, trigger, hammer retarder, muzzle compensator, and other design changes aimed at improving the efficiency of the rifle.\n"
+    "description": "Modernized 7.62mm Kalashnikov, adopted in 1959 to replace AK as a standard service weapon of the Soviet Army. Main differences, compared to AK: enhanced accuracy range, lower weight, new stock, trigger, hammer retarder, muzzle compensator, and other design changes aimed at improving the efficiency of the rifle.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AKM",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AKMN",
@@ -85,7 +125,11 @@
     "cartidge": "7.62x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "600\n",
-    "description": "AKMN (with NSPUM-AKMN2 scope) is a small arms system consisting of a modified AKM with dovetail mount for installation of the night vision scopes of NSP familiy - NSP-2/3/3A, NSPU, NSPUM.\n"
+    "description": "AKMN (with NSPUM-AKMN2 scope) is a small arms system consisting of a modified AKM with dovetail mount for installation of the night vision scopes of NSP familiy - NSP-2/3/3A, NSPU, NSPUM.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AKMN",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AKMS",
@@ -93,7 +137,11 @@
     "cartidge": "7.62x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "600\n",
-    "description": "AKMS (GRAU Index - 6P4) is a variant of the AKM with folding shoulder piece (stock). Folds forward-down, under the handguard. Designed specifically for airborne troops.\n"
+    "description": "AKMS (GRAU Index - 6P4) is a variant of the AKM with folding shoulder piece (stock). Folds forward-down, under the handguard. Designed specifically for airborne troops.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AKMS",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AKMSN",
@@ -101,7 +149,11 @@
     "cartidge": "7.62x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "600\n",
-    "description": "AKMSN - is a modified AKMS with dovetail mount for installation of the night vision scopes of NSP family — NSP-2/3/3A, NSPU, NSPUM.\n"
+    "description": "AKMSN - is a modified AKMS with dovetail mount for installation of the night vision scopes of NSP family — NSP-2/3/3A, NSPU, NSPUM.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AKMSN",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AKS-74",
@@ -109,7 +161,11 @@
     "cartidge": "5.45x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "Kalashnikov 5.45 mm assault rifle equipped with a side-folding metal shoulder stock, designed primarily for use with air assault infantry.\n"
+    "description": "Kalashnikov 5.45 mm assault rifle equipped with a side-folding metal shoulder stock, designed primarily for use with air assault infantry.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AKS-74",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AKS-74N",
@@ -117,7 +173,11 @@
     "cartidge": "5.45x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "Kalashnikov 5.45 mm assault rifle equipped with a side-folding metal shoulder stock, designed primarily for use with air assault infantry. The key design difference from the standard AKS-74 is a side mount for optical and night scopes.\n"
+    "description": "Kalashnikov 5.45 mm assault rifle equipped with a side-folding metal shoulder stock, designed primarily for use with air assault infantry. The key design difference from the standard AKS-74 is a side mount for optical and night scopes.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AKS-74N",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AKS-74U",
@@ -125,7 +185,11 @@
     "cartidge": "5.45x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "Reduced version of AKS-74 assault rifle, developed in the early 80s for combat vehicle crews and airborne troops, also became very popular with law enforcement and special forces for its compact size.\n"
+    "description": "Reduced version of AKS-74 assault rifle, developed in the early 80s for combat vehicle crews and airborne troops, also became very popular with law enforcement and special forces for its compact size.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AKS-74U",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AKS-74UB",
@@ -133,7 +197,11 @@
     "cartidge": "5.45x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "Special version of the AKS-74U, modification B (silences) is issued, by default, with a dovetail scope mount, a suppressor device, and special sights designed for firing subsonic ammunition.\n"
+    "description": "Special version of the AKS-74U, modification B (silences) is issued, by default, with a dovetail scope mount, a suppressor device, and special sights designed for firing subsonic ammunition.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AKS-74UB",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AKS-74UN",
@@ -141,7 +209,11 @@
     "cartidge": "5.45x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "Reduced version of the AKS-74 assault rifle, developed in the early 80s for combat vehicle crews and airborne troops, also became very popular with law enforcement and special forces for its compact size. Mod.N (night) is equipped with a dovetail mount for the night scopes.\n"
+    "description": "Reduced version of the AKS-74 assault rifle, developed in the early 80s for combat vehicle crews and airborne troops, also became very popular with law enforcement and special forces for its compact size. Mod.N (night) is equipped with a dovetail mount for the night scopes.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AKS-74UN",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "ASh-12",
@@ -149,7 +221,11 @@
     "cartidge": "12.7x55mm STs-130",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "The ASh-12.7 (which stands for \"Automatic assault rifle, 12.7mm\") battle rifle is a dedicated CQB/Urban Operations weapon, developed by TsKIB SOO (\"Central Design and Research Bureau of Sporting and Hunting Arms\"), a subsidiary of the KBP Instrument Design Bureau of Tula, Russia, by request from the Russian FSB (Federal Security Service). The weapon was designed with extreme short-range stopping power in mind for FSB urban combat units.\n"
+    "description": "The ASh-12.7 (which stands for \"Automatic assault rifle, 12.7mm\") battle rifle is a dedicated CQB/Urban Operations weapon, developed by TsKIB SOO (\"Central Design and Research Bureau of Sporting and Hunting Arms\"), a subsidiary of the KBP Instrument Design Bureau of Tula, Russia, by request from the Russian FSB (Federal Security Service). The weapon was designed with extreme short-range stopping power in mind for FSB urban combat units.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/ASh-12",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "AS VAL",
@@ -157,7 +233,11 @@
     "cartidge": "9x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "900\n",
-    "description": "AS VAL (Avtomat Specialniy, Special Automatic Rifle) - silenced automatic rifle with integral suppressor designed for special forces units. Developed in TSNIITochMash on the VSS Vintorez platform.\n"
+    "description": "AS VAL (Avtomat Specialniy, Special Automatic Rifle) - silenced automatic rifle with integral suppressor designed for special forces units. Developed in TSNIITochMash on the VSS Vintorez platform.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/AS_VAL",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "DT MDR 5.56x45",
@@ -165,7 +245,11 @@
     "cartidge": "5.56x45mm NATO",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "The product of the US-based company Desert Tech LLC MDR rifle is a modular, multi-caliber weapon with compact bullpup layout. Barrel lengths and calibers can be changed by the end user within minutes with a minimum amount of tools.\n"
+    "description": "The product of the US-based company Desert Tech LLC MDR rifle is a modular, multi-caliber weapon with compact bullpup layout. Barrel lengths and calibers can be changed by the end user within minutes with a minimum amount of tools.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/DT_MDR_5.56x45",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "DT MDR .308",
@@ -173,7 +257,11 @@
     "cartidge": "7.62x51mm NATO",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "The product of the US-based company Desert Tech LLC MDR rifle is a modular, multi-caliber weapon with compact bullpup layout. Barrel lengths and calibers can be changed by the end user within minutes with a minimum amount of tools.\n"
+    "description": "The product of the US-based company Desert Tech LLC MDR rifle is a modular, multi-caliber weapon with compact bullpup layout. Barrel lengths and calibers can be changed by the end user within minutes with a minimum amount of tools.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/DT_MDR_.308",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "HK 416A5",
@@ -181,7 +269,11 @@
     "cartidge": "5.56x45mm NATO",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "850\n",
-    "description": "The HK416 A5 is a further development of the HK416 assault rifle in 5.56 x 45 mm NATO calibre. The most striking changes compared to its previous versions as well as to market available AR platforms include an improved and tool-less gas regulator for suppressor use, a redesigned, user-friendly lower receiver, which allows complete ambidextrous operation of the weapon and ensures optimised magazine compatibility, as well as numerous technical improvements to maximize the operator safety, reliability, ammunition capability and durability under real operating conditions.\n"
+    "description": "The HK416 A5 is a further development of the HK416 assault rifle in 5.56 x 45 mm NATO calibre. The most striking changes compared to its previous versions as well as to market available AR platforms include an improved and tool-less gas regulator for suppressor use, a redesigned, user-friendly lower receiver, which allows complete ambidextrous operation of the weapon and ensures optimised magazine compatibility, as well as numerous technical improvements to maximize the operator safety, reliability, ammunition capability and durability under real operating conditions.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/HK_416A5",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "Kel-Tec RFB 7.62x51",
@@ -189,7 +281,11 @@
     "cartidge": "7.62x51mm NATO",
     "firingModes": "Single\n",
     "rateFire": "700\n",
-    "description": "The Kel-Tec RFB (Rifle, Forward-ejection, Bullpup) is a gas-operated bullpup type semi-automatic rifle, manufactured by Kel-Tec.\n"
+    "description": "The Kel-Tec RFB (Rifle, Forward-ejection, Bullpup) is a gas-operated bullpup type semi-automatic rifle, manufactured by Kel-Tec.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/Kel-Tec_RFB_7.62x51",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "M4A1",
@@ -197,7 +293,11 @@
     "cartidge": "5.56x45mm NATO",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "800\n",
-    "description": "Colt M4A1 - an assault rifle (carbine), designed in the USA on the basis of AR-15 platform for 5.56x45 NATO cartridge. It was developed primarily for use by vehicle operators and fireteams, who required a more compact and lighter weapon than a standard full-length rifle, but using the same ordnance. However, US SOCOM (United States Special Operations Command) was soon to adopt the M4A1 for all subordinate units, followed by general introduction of M4A1 into service in the US Army and Marine Corps.\n"
+    "description": "Colt M4A1 - an assault rifle (carbine), designed in the USA on the basis of AR-15 platform for 5.56x45 NATO cartridge. It was developed primarily for use by vehicle operators and fireteams, who required a more compact and lighter weapon than a standard full-length rifle, but using the same ordnance. However, US SOCOM (United States Special Operations Command) was soon to adopt the M4A1 for all subordinate units, followed by general introduction of M4A1 into service in the US Army and Marine Corps.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/M4A1",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "MCX",
@@ -205,7 +305,11 @@
     "cartidge": ".300 Blackout",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "800\n",
-    "description": "The MCX line, designed and manufactured by SIG Sauer, is available in both semi-automatic and automatic versions and features a short-stroke gas piston system, which is inherited from the earlier SIG MPX submachine gun.\n"
+    "description": "The MCX line, designed and manufactured by SIG Sauer, is available in both semi-automatic and automatic versions and features a short-stroke gas piston system, which is inherited from the earlier SIG MPX submachine gun.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/MCX",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "SA-58",
@@ -213,7 +317,11 @@
     "cartidge": "7.62x51mm NATO",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "700\n",
-    "description": "SA-58 OSW (Operations Specialist Weapon) manufactured by american company DSA (David Selveggio Arms) is a legal copy of the FAL, it's made with the same Steyr-Daimler-Puch production line equipment as the StG-58. It may come with a different barrel length, an aluminum-alloy lower receiver, and improved Glass-filled Nylon furniture. Civilian models are semi-automatic, but military and Law Enforcement clients can procure select-fire models that have a fully automatic cyclic rate of 750 rounds/minute. The DSA-58 can use any metric-measurement FAL magazines.\n"
+    "description": "SA-58 OSW (Operations Specialist Weapon) manufactured by american company DSA (David Selveggio Arms) is a legal copy of the FAL, it's made with the same Steyr-Daimler-Puch production line equipment as the StG-58. It may come with a different barrel length, an aluminum-alloy lower receiver, and improved Glass-filled Nylon furniture. Civilian models are semi-automatic, but military and Law Enforcement clients can procure select-fire models that have a fully automatic cyclic rate of 750 rounds/minute. The DSA-58 can use any metric-measurement FAL magazines.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/SA-58",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "TX-15 DML",
@@ -221,7 +329,11 @@
     "cartidge": "5.56x45mm NATO",
     "firingModes": "Single\n",
     "rateFire": "800\n",
-    "description": "The TX15 Designated Marksman Light (DML) series sets the standard for a small frame semi-automatic precision rifle. Utilizing lessons learned during the development of our Multi Purpose Carbine, the DML is optimized for mid-range shooting.\n"
+    "description": "The TX15 Designated Marksman Light (DML) series sets the standard for a small frame semi-automatic precision rifle. Utilizing lessons learned during the development of our Multi Purpose Carbine, the DML is optimized for mid-range shooting.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/TX-15_DML",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "Vepr AKM/VPO-209",
@@ -229,7 +341,11 @@
     "cartidge": ".366 TKM",
     "firingModes": "Single\n",
     "rateFire": "600\n",
-    "description": "VPO-209 was created on the platform of Klashnikov (AKM) and has an identical appearance, weight, and dimensions. Hammer type firing mechanism administers single shots and setting the safety to locked. Ammo is fed by detachable box magazine.\n"
+    "description": "VPO-209 was created on the platform of Klashnikov (AKM) and has an identical appearance, weight, and dimensions. Hammer type firing mechanism administers single shots and setting the safety to locked. Ammo is fed by detachable box magazine.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/Vepr_AKM/VPO-209",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "Vepr KM/VPO-136",
@@ -237,7 +353,11 @@
     "cartidge": "7.62x39mm",
     "firingModes": "Single\n",
     "rateFire": "600\n",
-    "description": "Semi-automatic hunting carbine of 7.62x39 mm caliber. It was created on the platform of Kalashnikov (AKM) and has an identical appearance, weight and dimensions. Designed for professional and amateur hunting of medium and big game, as well as sporting use.\n"
+    "description": "Semi-automatic hunting carbine of 7.62x39 mm caliber. It was created on the platform of Kalashnikov (AKM) and has an identical appearance, weight and dimensions. Designed for professional and amateur hunting of medium and big game, as well as sporting use.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/Vepr_KM/VPO-136",
+    "extra": {
+      "type": "Assault rifle"
+    }
   },
   {
     "nombre": "OP-SKS",
@@ -245,7 +365,11 @@
     "cartidge": "7.62x39mm",
     "firingModes": "Single\n",
     "rateFire": "40\n",
-    "description": "Molot OP-SKS Carbine is designed for loading with 7.62x39 - the most popular ammunition. The weight and dimensions make the carbine ergonomic for shooters of any age and height. It has been used for all types of traditional Russian hunting for more than 50 years. Tested on predators in Africa, Southeast Asia, Central America, Middle East.\n"
+    "description": "Molot OP-SKS Carbine is designed for loading with 7.62x39 - the most popular ammunition. The weight and dimensions make the carbine ergonomic for shooters of any age and height. It has been used for all types of traditional Russian hunting for more than 50 years. Tested on predators in Africa, Southeast Asia, Central America, Middle East.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/OP-SKS",
+    "extra": {
+      "type": "Assault carbine"
+    }
   },
   {
     "nombre": "SKS",
@@ -253,7 +377,11 @@
     "cartidge": "7.62x39mm",
     "firingModes": "Single\n",
     "rateFire": "40\n",
-    "description": "Soviet semi-automatic carbine designed by Sergei Simonov for 7.62x39 cartridge and known abroad as SKS-45. Immensely popular both in CIS countries and in the West, this weapon is still in active service in some countries in form of various copies and modifications. This particular specimen comes from extended storage warehouses of Tula Arms Plant and haven't yet undergo the civilian weapon normalization procedure.\n"
+    "description": "Soviet semi-automatic carbine designed by Sergei Simonov for 7.62x39 cartridge and known abroad as SKS-45. Immensely popular both in CIS countries and in the West, this weapon is still in active service in some countries in form of various copies and modifications. This particular specimen comes from extended storage warehouses of Tula Arms Plant and haven't yet undergo the civilian weapon normalization procedure.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/SKS",
+    "extra": {
+      "type": "Assault carbine"
+    }
   },
   {
     "nombre": "Vepr Hunter/VPO-101",
@@ -261,7 +389,11 @@
     "cartidge": "7.62x51mm NATO",
     "firingModes": "Single\n",
     "rateFire": "600\n",
-    "description": "Semi-automatic hunting carbine of 7.62x51 mm caliber. It was created on the platform of Kalashnikov (AKM) and has an identical appearance, weight and dimensions. Designed for professional and amateur hunting of medium and big game, as well as sporting use.\n"
+    "description": "Semi-automatic hunting carbine of 7.62x51 mm caliber. It was created on the platform of Kalashnikov (AKM) and has an identical appearance, weight and dimensions. Designed for professional and amateur hunting of medium and big game, as well as sporting use.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/Vepr_Hunter/VPO-101",
+    "extra": {
+      "type": "Assault carbine"
+    }
   },
   {
     "nombre": "RPK-16",
@@ -269,7 +401,11 @@
     "cartidge": "5.45x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "650\n",
-    "description": "Newest Russian light machine gun - RPK-16 chambered in 5.45x39mm rounds. Key features of this kind of weapon are - quick detachable barrels, enhanced ergonomics, weaver rails on a handguard, and dust cover.\n"
+    "description": "Newest Russian light machine gun - RPK-16 chambered in 5.45x39mm rounds. Key features of this kind of weapon are - quick detachable barrels, enhanced ergonomics, weaver rails on a handguard, and dust cover.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/RPK-16",
+    "extra": {
+      "type": "Light machine gun"
+    }
   },
   {
     "nombre": "MP5",
@@ -277,7 +413,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "Single3‑round BurstFull‑Auto\n",
     "rateFire": "800\n",
-    "description": "HK MP5 9x19 submachinegun with Navy 3 Round Burst firing mechanism version, which features three-round cutoff. Widely acclaimed model of a submachinegun, primarily known as weapon of GSG9 and similar forces of the world, and famous through frequent appearance in movies and video games.\n"
+    "description": "HK MP5 9x19 submachinegun with Navy 3 Round Burst firing mechanism version, which features three-round cutoff. Widely acclaimed model of a submachinegun, primarily known as weapon of GSG9 and similar forces of the world, and famous through frequent appearance in movies and video games.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/MP5",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "MP5K-N",
@@ -285,7 +425,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "Single3‑round BurstFull‑Auto\n",
     "rateFire": "900\n",
-    "description": "HK MP5K(K from the German word Kurz - \"short\") is a shorter version of MP5 which was designed for close quarters battle use by clandestine operations and special services.\n"
+    "description": "HK MP5K(K from the German word Kurz - \"short\") is a shorter version of MP5 which was designed for close quarters battle use by clandestine operations and special services.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/MP5K-N",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "MP7A1",
@@ -293,7 +437,11 @@
     "cartidge": "4.6x30mm HK",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "950\n",
-    "description": "The MP7 is extremely compact, lightweight, can be used in very confined spaces, and is practically recoil-free. It can be carried continuously, making it the ideal personal weapon for the soldier of today. Those who carry it will be suitably armed for the broadest range of operations.\n"
+    "description": "The MP7 is extremely compact, lightweight, can be used in very confined spaces, and is practically recoil-free. It can be carried continuously, making it the ideal personal weapon for the soldier of today. Those who carry it will be suitably armed for the broadest range of operations.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/MP7A1",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "MP7A2",
@@ -301,7 +449,11 @@
     "cartidge": "4.6x30mm HK",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "950\n",
-    "description": "The MP7A2 is a further modification of the MP7A1. The key feature of this submachine gun is the replacement of the standard folding foregrip for a \"picatinny\" rail.\n"
+    "description": "The MP7A2 is a further modification of the MP7A1. The key feature of this submachine gun is the replacement of the standard folding foregrip for a \"picatinny\" rail.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/MP7A2",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "MP9",
@@ -309,7 +461,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "900\n",
-    "description": "The Brügger & Thomet MP9 (Maschinenpistole 9mm, German for machine pistol) is  is a selective-fire 9×19mm Parabellum caliber machine pistol designed and manufactured by Brügger & Thomet of Switzerland.\n"
+    "description": "The Brügger & Thomet MP9 (Maschinenpistole 9mm, German for machine pistol) is  is a selective-fire 9×19mm Parabellum caliber machine pistol designed and manufactured by Brügger & Thomet of Switzerland.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/MP9",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "MP9-N",
@@ -317,7 +473,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "1100\n",
-    "description": "The MP9-N is a further modification of a MP-9 SMG, which was refined and optimized in cooperation with special units from police and military. The MP9-N is currently in service with close protection teams as well as with SWAT teams worldwide. It is also a perfect choice as a Personal Defense Weapon (PDW).\n"
+    "description": "The MP9-N is a further modification of a MP-9 SMG, which was refined and optimized in cooperation with special units from police and military. The MP9-N is currently in service with close protection teams as well as with SWAT teams worldwide. It is also a perfect choice as a Personal Defense Weapon (PDW).\n",
+    "href": "https://escapefromtarkov.gamepedia.com/MP9-N",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "MPX",
@@ -325,7 +485,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "850\n",
-    "description": "SIG MPX boasts the unprecedented operation speed in the familiar form factor of the AR platform. Short-stroke gas piston allows SIG MPX to use the full range of 9 mm ammunition without any adjustments to the gas valve. Full-sized mount provides the means of installing a wide range of scopes and sighting devices.\n"
+    "description": "SIG MPX boasts the unprecedented operation speed in the familiar form factor of the AR platform. Short-stroke gas piston allows SIG MPX to use the full range of 9 mm ammunition without any adjustments to the gas valve. Full-sized mount provides the means of installing a wide range of scopes and sighting devices.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/MPX",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "P90",
@@ -333,7 +497,11 @@
     "cartidge": "5.7x28mm FN",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "900\n",
-    "description": "The FN P90, also known as the FN Project 1990, is a compact personal defense weapon (PDW) designed and manufactured by FN Herstal in Belgium. Created in response to NATO requests for a replacement for 9×19mm Parabellum firearms, the P90 was designed as a compact but powerful firearm for vehicle crews, operators of crew-served weapons, support personnel, special forces, and counter-terrorist groups.\n"
+    "description": "The FN P90, also known as the FN Project 1990, is a compact personal defense weapon (PDW) designed and manufactured by FN Herstal in Belgium. Created in response to NATO requests for a replacement for 9×19mm Parabellum firearms, the P90 was designed as a compact but powerful firearm for vehicle crews, operators of crew-served weapons, support personnel, special forces, and counter-terrorist groups.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/P90",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "PP-19-01 Vityaz-SN",
@@ -341,7 +509,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "700\n",
-    "description": "Russian submachinegun based on the AKS-74U design. Standard-issue for many law enforcement and military units of the Russian Federation.\n"
+    "description": "Russian submachinegun based on the AKS-74U design. Standard-issue for many law enforcement and military units of the Russian Federation.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/PP-19-01_Vityaz-SN",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "PP-9 \"Klin\"",
@@ -349,7 +521,11 @@
     "cartidge": "9x18mm Makarov",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "1000\n",
-    "description": "A further evolution of the Kedr SMG for new 9x18 PMM cartridge, designated as PP-9 Klin. It has been manufactured since 1996 until 2002 by the order of the Ministry of Internal Affairs.\n"
+    "description": "A further evolution of the Kedr SMG for new 9x18 PMM cartridge, designated as PP-9 Klin. It has been manufactured since 1996 until 2002 by the order of the Ministry of Internal Affairs.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/PP-9_%22Klin%22",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "PP-91 \"Kedr\"",
@@ -357,7 +533,11 @@
     "cartidge": "9x18mm Makarov",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "900\n",
-    "description": "The PP-91 Kedr SMG was developed in the early 90's by the order of Ministry of Internal Affairs and is now produced at Ziatoust machinery plant (Zlatoustovvskiy Mashinostroitelnyl Zavod ZMZ). At the moment, it is a service weapon of almost all Russian law enforcement forces.\n"
+    "description": "The PP-91 Kedr SMG was developed in the early 90's by the order of Ministry of Internal Affairs and is now produced at Ziatoust machinery plant (Zlatoustovvskiy Mashinostroitelnyl Zavod ZMZ). At the moment, it is a service weapon of almost all Russian law enforcement forces.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/PP-91_%22Kedr%22",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "PP-91-01 \"Kedr-B\"",
@@ -365,7 +545,11 @@
     "cartidge": "9x18mm Makarov",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "900\n",
-    "description": "A rare silenced version of the PP-91 Kedr SMG, denominated as PP-91-01 Kedr-B.\n"
+    "description": "A rare silenced version of the PP-91 Kedr SMG, denominated as PP-91-01 Kedr-B.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/PP-91-01_%22Kedr-B%22",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "PPSH-41",
@@ -373,7 +557,11 @@
     "cartidge": "7.62x25mm Tokarev",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "1000\n",
-    "description": "The PPSh-41 (pistolet-pulemyot Shpagina; Russian: Пистолет-пулемёт Шпагина; \"Shpagin machine pistol\") is a Soviet submachine gun designed by Georgy Shpagin as a cheap, reliable, and simplified alternative to the PPD-40.\n"
+    "description": "The PPSh-41 (pistolet-pulemyot Shpagina; Russian: Пистолет-пулемёт Шпагина; \"Shpagin machine pistol\") is a Soviet submachine gun designed by Georgy Shpagin as a cheap, reliable, and simplified alternative to the PPD-40.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/PPSH-41",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "Saiga-9",
@@ -381,7 +569,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "Single\n",
     "rateFire": "650\n",
-    "description": "Semi-automatic Saiga-9 carbine was developed as a variant of PP-19-01 Vityaz-SN for civilian market and designed for purposes of shooting sports and plinking.\n"
+    "description": "Semi-automatic Saiga-9 carbine was developed as a variant of PP-19-01 Vityaz-SN for civilian market and designed for purposes of shooting sports and plinking.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/Saiga-9",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "UMP 45",
@@ -389,7 +581,11 @@
     "cartidge": ".45 ACP",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "600\n",
-    "description": "Heckler & Koch UMP - submachine gun, designed by German company Heckler & Koch in the 1990s as a lighter and cheaper analog of the MP5. This version is designed to fire a .45 ACP cartridge and has a reduced to 600 rpm rate of fire.\n"
+    "description": "Heckler & Koch UMP - submachine gun, designed by German company Heckler & Koch in the 1990s as a lighter and cheaper analog of the MP5. This version is designed to fire a .45 ACP cartridge and has a reduced to 600 rpm rate of fire.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/UMP_45",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "Vector .45",
@@ -397,7 +593,11 @@
     "cartidge": ".45 ACP",
     "firingModes": "Single2‑round BurstFull‑Auto\n",
     "rateFire": "1100\n",
-    "description": "The KRISS Vector SMG is the ideal choice for law enforcement and military seeking a controllable, compact, weapon system for close quarter combat environments. The low bore axis and Super V recoil mitigation system allow for the most controllable select-fire operation, or fast semi-automatic follow up shots.\n"
+    "description": "The KRISS Vector SMG is the ideal choice for law enforcement and military seeking a controllable, compact, weapon system for close quarter combat environments. The low bore axis and Super V recoil mitigation system allow for the most controllable select-fire operation, or fast semi-automatic follow up shots.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/Vector_.45",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "Vector 9x19",
@@ -405,7 +605,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "Single2‑round BurstFull‑Auto\n",
     "rateFire": "950\n",
-    "description": "The KRISS Vector SMG is the ideal choice for law enforcement and military seeking a controllable, compact, weapon system for close quarter combat environments. The low bore axis and Super V recoil mitigation system allow for the most controllable select fire operation, or fast semi-automatic follow up shots.\n"
+    "description": "The KRISS Vector SMG is the ideal choice for law enforcement and military seeking a controllable, compact, weapon system for close quarter combat environments. The low bore axis and Super V recoil mitigation system allow for the most controllable select fire operation, or fast semi-automatic follow up shots.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/Vector_9x19",
+    "extra": {
+      "type": "Submachine gun"
+    }
   },
   {
     "nombre": "590A1",
@@ -413,7 +617,11 @@
     "cartidge": "12x70mm",
     "firingModes": "Single(Pump action)\n",
     "rateFire": "30\n",
-    "description": "The Mossberg 500 Series is one of the most famous and widespread pump action shotguns in the world. Protects your front lawn since 1961.\n"
+    "description": "The Mossberg 500 Series is one of the most famous and widespread pump action shotguns in the world. Protects your front lawn since 1961.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/590A1",
+    "extra": {
+      "type": "Shotgun"
+    }
   },
   {
     "nombre": "M870",
@@ -421,7 +629,11 @@
     "cartidge": "12x70mm",
     "firingModes": "Single(Pump action)\n",
     "rateFire": "30\n",
-    "description": "The Remington Model 870 is a pump-action shotgun manufactured by Remington Arms Company, LLC. It is widely used by the public for sport shooting, hunting, and self-defense and used by law enforcement and military organizations worldwide.\n"
+    "description": "The Remington Model 870 is a pump-action shotgun manufactured by Remington Arms Company, LLC. It is widely used by the public for sport shooting, hunting, and self-defense and used by law enforcement and military organizations worldwide.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/M870",
+    "extra": {
+      "type": "Shotgun"
+    }
   },
   {
     "nombre": "MP-133",
@@ -429,7 +641,11 @@
     "cartidge": "12x70mm",
     "firingModes": "Single(Pump action)\n",
     "rateFire": "30\n",
-    "description": "Multi-shot, smoothbore MP-133 pump-action shotgun produced by IzhMekh. Reliable and practical hunting and self-defence weapon. Considered unique in its class for having a slide stop.\n"
+    "description": "Multi-shot, smoothbore MP-133 pump-action shotgun produced by IzhMekh. Reliable and practical hunting and self-defence weapon. Considered unique in its class for having a slide stop.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/MP-133",
+    "extra": {
+      "type": "Shotgun"
+    }
   },
   {
     "nombre": "MP-153",
@@ -437,7 +653,11 @@
     "cartidge": "12x70mm",
     "firingModes": "Single\n",
     "rateFire": "40\n",
-    "description": "Smoothbore multi-shot. MP-153 shotgun, produced by Izhmekh. Reliable and practical hunting and self-defence weapon.\n"
+    "description": "Smoothbore multi-shot. MP-153 shotgun, produced by Izhmekh. Reliable and practical hunting and self-defence weapon.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/MP-153",
+    "extra": {
+      "type": "Shotgun"
+    }
   },
   {
     "nombre": "Saiga-12",
@@ -445,7 +665,11 @@
     "cartidge": "12x70mm",
     "firingModes": "Single\n",
     "rateFire": "40\n",
-    "description": "Semi-automatic 12ga shotgun with folding stock and firing mechanism safety lock that only allows firing from extended stock position. Features short 430mm barrel.\n"
+    "description": "Semi-automatic 12ga shotgun with folding stock and firing mechanism safety lock that only allows firing from extended stock position. Features short 430mm barrel.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/Saiga-12",
+    "extra": {
+      "type": "Shotgun"
+    }
   },
   {
     "nombre": "TOZ-106",
@@ -453,7 +677,11 @@
     "cartidge": "20x70mm",
     "firingModes": "Single(Bolt action)\n",
     "rateFire": "30\n",
-    "description": "Single-barreled 20ga hunting shotgun with sliding breech bolt. Widely known by it vernacular name, the Death of the Chairman, for its compact size.\n"
+    "description": "Single-barreled 20ga hunting shotgun with sliding breech bolt. Widely known by it vernacular name, the Death of the Chairman, for its compact size.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/TOZ-106",
+    "extra": {
+      "type": "Shotgun"
+    }
   },
   {
     "nombre": "KS-23M",
@@ -461,7 +689,11 @@
     "cartidge": "23x75mm",
     "firingModes": "Single(Pump action)\n",
     "rateFire": "30\n",
-    "description": "The KS-23 is a Russian shotgun, although because it uses a rifled barrel it is officially designated by the Russian military as a carbine. KS stands for Karabin Spetsialniy, \"Special Carbine\". It is renowned for its large caliber, firing a 23 mm round, equating to 6.27 gauge using the British and American standards of shotgun gauges and approximately 4 gauge using the current European standards (based on the metric CIP tables), making it the largest-bore shotgun in use today.\n"
+    "description": "The KS-23 is a Russian shotgun, although because it uses a rifled barrel it is officially designated by the Russian military as a carbine. KS stands for Karabin Spetsialniy, \"Special Carbine\". It is renowned for its large caliber, firing a 23 mm round, equating to 6.27 gauge using the British and American standards of shotgun gauges and approximately 4 gauge using the current European standards (based on the metric CIP tables), making it the largest-bore shotgun in use today.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/KS-23M",
+    "extra": {
+      "type": "Shotgun"
+    }
   },
   {
     "nombre": "M1A",
@@ -469,7 +701,11 @@
     "cartidge": "7.62x51mm NATO",
     "firingModes": "Single\n",
     "rateFire": "700\n",
-    "description": "The Springfield Armory M1A is a civilian version of the M14 rifle designed and manufactured by Springfield Armory, Inc.\n"
+    "description": "The Springfield Armory M1A is a civilian version of the M14 rifle designed and manufactured by Springfield Armory, Inc.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/M1A",
+    "extra": {
+      "type": "Designated marksman rifle"
+    }
   },
   {
     "nombre": "Mk-18",
@@ -477,7 +713,11 @@
     "cartidge": ".338 Lapua Magnum",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "The Mk-18 Mod 1 Extreme Distance Capable Semi-Automatic Rifle was designed to take advantage of the ballistic capabilities of the .338 Lapua Magnum, .338 Norma Magnum, and .300 Norma Magnum cartridges. The system provides extreme distance capability in a lightweight and mobile semi-auto platform. Utilizing SWORD’s proprietary short-stroke piston system the rifle is precise, reliable, and durable. Featuring ambidextrous controls, ergonomic features, and built-in modularity, the MK18 is a great choice for the avid hunter, long-range enthusiast, and competition shooter.\n"
+    "description": "The Mk-18 Mod 1 Extreme Distance Capable Semi-Automatic Rifle was designed to take advantage of the ballistic capabilities of the .338 Lapua Magnum, .338 Norma Magnum, and .300 Norma Magnum cartridges. The system provides extreme distance capability in a lightweight and mobile semi-auto platform. Utilizing SWORD’s proprietary short-stroke piston system the rifle is precise, reliable, and durable. Featuring ambidextrous controls, ergonomic features, and built-in modularity, the MK18 is a great choice for the avid hunter, long-range enthusiast, and competition shooter.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/Mk-18",
+    "extra": {
+      "type": "Designated marksman rifle"
+    }
   },
   {
     "nombre": "RSASS",
@@ -485,7 +725,11 @@
     "cartidge": "7.62x51mm NATO",
     "firingModes": "Single\n",
     "rateFire": "700\n",
-    "description": "The Remington Semi Automatic Sniper System is the culmination of a joint effort between Remington Arms and JP Enterprises to develop a highly accurate and superbly built rapid firing sniper rifle. This weapon delivers sub-MOA accuracy out to 800 meters and beyond while providing the tactical advantage of a semi-automatic platform.\n"
+    "description": "The Remington Semi Automatic Sniper System is the culmination of a joint effort between Remington Arms and JP Enterprises to develop a highly accurate and superbly built rapid firing sniper rifle. This weapon delivers sub-MOA accuracy out to 800 meters and beyond while providing the tactical advantage of a semi-automatic platform.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/RSASS",
+    "extra": {
+      "type": "Designated marksman rifle"
+    }
   },
   {
     "nombre": "SR-25",
@@ -493,7 +737,11 @@
     "cartidge": "7.62x51mm NATO",
     "firingModes": "Single\n",
     "rateFire": "700\n",
-    "description": "The SR-25 Precision Rifle is the latest evolution of the precision 7.62mm NATO semi-automatic rifle. An ambidextrous bolt release, selector, and magazine release offers the left-handed user the ergonomic advantages inherent to AR15 based controls, as well as giving right-handed users alternate methods of manipulation to increase efficiency of movement. The Drop-In 2-Stage Trigger serves as an aid to long range precision marksmanship. The E2 bolt and gas system provides superior reliability in function whether suppressed or unsuppressed.\n"
+    "description": "The SR-25 Precision Rifle is the latest evolution of the precision 7.62mm NATO semi-automatic rifle. An ambidextrous bolt release, selector, and magazine release offers the left-handed user the ergonomic advantages inherent to AR15 based controls, as well as giving right-handed users alternate methods of manipulation to increase efficiency of movement. The Drop-In 2-Stage Trigger serves as an aid to long range precision marksmanship. The E2 bolt and gas system provides superior reliability in function whether suppressed or unsuppressed.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/SR-25",
+    "extra": {
+      "type": "Designated marksman rifle"
+    }
   },
   {
     "nombre": "SVDS",
@@ -501,7 +749,11 @@
     "cartidge": "7.62x54mmR",
     "firingModes": "Single\n",
     "rateFire": "700\n",
-    "description": "Dragunov sniper rifle with folding stock - the SVDS variant. Was specially designed for Russian paratroopers and special forces units.\n"
+    "description": "Dragunov sniper rifle with folding stock - the SVDS variant. Was specially designed for Russian paratroopers and special forces units.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/SVDS",
+    "extra": {
+      "type": "Designated marksman rifle"
+    }
   },
   {
     "nombre": "VSS Vintorez",
@@ -509,7 +761,11 @@
     "cartidge": "9x39mm",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "900\n",
-    "description": "VSS (Vintovka Sniperskaya, Special Sniper Rifle) - suppressed sniper rifle with an integral suppressor, designed in the 80s in TSNIITochMash Institute for the needs of special-purpose teams and task forces.\n"
+    "description": "VSS (Vintovka Sniperskaya, Special Sniper Rifle) - suppressed sniper rifle with an integral suppressor, designed in the 80s in TSNIITochMash Institute for the needs of special-purpose teams and task forces.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/VSS_Vintorez",
+    "extra": {
+      "type": "Designated marksman rifle"
+    }
   },
   {
     "nombre": "DVL-10",
@@ -517,7 +773,11 @@
     "cartidge": "7.62x51mm NATO",
     "firingModes": "Single(Bolt Action)\n",
     "rateFire": "30\n",
-    "description": "DVL-10 is a lightweight, compact, and silenced rifle in proprietary and current military subsonic calibers and has been developed for special service and combat missions where exceptional accuracy and range are needed. Equipped with a standard Lobaev foldable butt-stock and Lobaev Hummer Barrels stainless steel match-grade barrel.\n"
+    "description": "DVL-10 is a lightweight, compact, and silenced rifle in proprietary and current military subsonic calibers and has been developed for special service and combat missions where exceptional accuracy and range are needed. Equipped with a standard Lobaev foldable butt-stock and Lobaev Hummer Barrels stainless steel match-grade barrel.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/DVL-10",
+    "extra": {
+      "type": "Sniper rifle"
+    }
   },
   {
     "nombre": "M700",
@@ -525,7 +785,11 @@
     "cartidge": "7.62x51mm NATO",
     "firingModes": "Single(Bolt Action)\n",
     "rateFire": "30\n",
-    "description": "The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962.\n"
+    "description": "The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/M700",
+    "extra": {
+      "type": "Sniper rifle"
+    }
   },
   {
     "nombre": "Mosin",
@@ -533,7 +797,11 @@
     "cartidge": "7.62x54mmR",
     "firingModes": "Single(Bolt Action)\n",
     "rateFire": "30\n",
-    "description": "Mosin Nagant M91/30 PU is a sniper variant of the famous russian rifle, which was commonly in use by russian snipers during WW2.\n"
+    "description": "Mosin Nagant M91/30 PU is a sniper variant of the famous russian rifle, which was commonly in use by russian snipers during WW2.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/Mosin",
+    "extra": {
+      "type": "Sniper rifle"
+    }
   },
   {
     "nombre": "Mosin Inf.",
@@ -541,7 +809,11 @@
     "cartidge": "7.62x54mmR",
     "firingModes": "Single(Bolt Action)\n",
     "rateFire": "30\n",
-    "description": "Mosin–Nagant is a famous russian rifle, which was commonly in use during WW2.\n"
+    "description": "Mosin–Nagant is a famous russian rifle, which was commonly in use during WW2.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/Mosin_Inf.",
+    "extra": {
+      "type": "Sniper rifle"
+    }
   },
   {
     "nombre": "SV-98",
@@ -549,7 +821,11 @@
     "cartidge": "7.62x54mmR",
     "firingModes": "Single(Bolt Action)\n",
     "rateFire": "30\n",
-    "description": "SV-98 is a Russian sniper rifle developed in 1998-2000 by a group of weapon engineers led by V.Stronskly. Serially produced by IzhMash group. It is a magazine-fed bolt-action rifle, designed to engage military personnel at distances of up to 1000 m.\n"
+    "description": "SV-98 is a Russian sniper rifle developed in 1998-2000 by a group of weapon engineers led by V.Stronskly. Serially produced by IzhMash group. It is a magazine-fed bolt-action rifle, designed to engage military personnel at distances of up to 1000 m.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/SV-98",
+    "extra": {
+      "type": "Sniper rifle"
+    }
   },
   {
     "nombre": "T-5000",
@@ -557,7 +833,11 @@
     "cartidge": "7.62x51mm NATO",
     "firingModes": "Single(Bolt Action)\n",
     "rateFire": "30\n",
-    "description": "High-accuracy ORSIS T-5000 rifle is an outstanding result of our company designers' efforts. This model was created in cooperation with professional shooters and has the properties required for a customer in the Russian market. T-5000 model is a hand-reloaded repeater with sliding breech bolt and two front locking lugs. It is a multi-purpose weapon. Its specifications provide high-accuracy long-range shots (up to 1500m), high level of shooter's convenience while preparatory, firing and recoil phases, swift sighting line recovery, excellent reliability and ergonomics.\n"
+    "description": "High-accuracy ORSIS T-5000 rifle is an outstanding result of our company designers' efforts. This model was created in cooperation with professional shooters and has the properties required for a customer in the Russian market. T-5000 model is a hand-reloaded repeater with sliding breech bolt and two front locking lugs. It is a multi-purpose weapon. Its specifications provide high-accuracy long-range shots (up to 1500m), high level of shooter's convenience while preparatory, firing and recoil phases, swift sighting line recovery, excellent reliability and ergonomics.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/T-5000",
+    "extra": {
+      "type": "Sniper rifle"
+    }
   },
   {
     "nombre": "VPO-215",
@@ -565,7 +845,11 @@
     "cartidge": ".366 TKM",
     "firingModes": "Single(Bolt Action)\n",
     "rateFire": "30\n",
-    "description": "VPO-215 is a Russian made bolt-action rifle designed for hunting.\n"
+    "description": "VPO-215 is a Russian made bolt-action rifle designed for hunting.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/VPO-215",
+    "extra": {
+      "type": "Sniper rifle"
+    }
   },
   {
     "nombre": "FN GL40",
@@ -573,7 +857,11 @@
     "cartidge": "40x46 mm",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "Standalone buttstock assembly with an attached FN GL40 Mk.2 grenade launcher. It is designed to use the full variety of NATO standard 40mm grenades.\n"
+    "description": "Standalone buttstock assembly with an attached FN GL40 Mk.2 grenade launcher. It is designed to use the full variety of NATO standard 40mm grenades.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/FN_GL40",
+    "extra": {
+      "type": "Grenade launcher"
+    }
   },
   {
     "nombre": "APB",
@@ -581,7 +869,11 @@
     "cartidge": "9x18mm Makarov",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "750\n",
-    "description": "Silenced version of a Stechkin Automatic Pistol. Widely used by different Russian special forces.\n"
+    "description": "Silenced version of a Stechkin Automatic Pistol. Widely used by different Russian special forces.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/APB",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "APS",
@@ -589,7 +881,11 @@
     "cartidge": "9x18mm Makarov",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "750\n",
-    "description": "The Stechkin automatic pistol or APS is a Soviet selective fire machine pistol. It bears the name of its developer, Igor Stechkin.\n"
+    "description": "The Stechkin automatic pistol or APS is a Soviet selective fire machine pistol. It bears the name of its developer, Igor Stechkin.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/APS",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "FN 5-7",
@@ -597,7 +893,11 @@
     "cartidge": "5.7x28mm FN",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "The FN Five-seven, trademarked as the Five-seveN, is a semi-automatic pistol designed and manufactured by FN Herstal in Belgium. Comes in black and flat dark earth.\n"
+    "description": "The FN Five-seven, trademarked as the Five-seveN, is a semi-automatic pistol designed and manufactured by FN Herstal in Belgium. Comes in black and flat dark earth.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/FN_5-7",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "GLOCK17",
@@ -605,7 +905,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "Glock 17 is an Austrian pistol designed by Glock company for the Austrian army purposes. Thanks to both to its impressive combat characteristics and reliablity gained wide recognition and popularity also as a police, shooting sports and civilian self-defence weapon.\n"
+    "description": "Glock 17 is an Austrian pistol designed by Glock company for the Austrian army purposes. Thanks to both to its impressive combat characteristics and reliablity gained wide recognition and popularity also as a police, shooting sports and civilian self-defence weapon.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/GLOCK17",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "GLOCK18C",
@@ -613,7 +917,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "SingleFull‑Auto\n",
     "rateFire": "1200\n",
-    "description": "The Glock 18 is a selective-fire variant of the Glock 17. The firearm is typically used with an extended 33-round-capacity magazine, although other magazines from the Glock 17 can be used, with available capacities of 10, 17, or 19 rounds. It has a keyhole opening cut into the forward portion of the slide, similar to the opening on the Glock long-slide models, although the Glock 18 has a standard-length slide. The keyhole opening provides an area to allow the four, progressively larger (from back to front) compensator cuts machined into the barrel to vent the propellant gases upwards, affording more control over the rapid-firing machine pistol.\n"
+    "description": "The Glock 18 is a selective-fire variant of the Glock 17. The firearm is typically used with an extended 33-round-capacity magazine, although other magazines from the Glock 17 can be used, with available capacities of 10, 17, or 19 rounds. It has a keyhole opening cut into the forward portion of the slide, similar to the opening on the Glock long-slide models, although the Glock 18 has a standard-length slide. The keyhole opening provides an area to allow the four, progressively larger (from back to front) compensator cuts machined into the barrel to vent the propellant gases upwards, affording more control over the rapid-firing machine pistol.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/GLOCK18C",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "M1911A1",
@@ -621,7 +929,11 @@
     "cartidge": ".45 ACP",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "Commonly known simply as \"Colt\", the M1911 is one of the most famous handguns on a planet. It went through both World War's as a standard-issue US Army pistol, and despite that it was replaced in 1986, its further variations are still a sidearm of choice in different US Special Forces. M1911A1 is the further generation of a M1911 pistol, after World War I, the military's Model 1911 went through various changes including shorter trigger with frame cuts, improved sights, an arched mainspring housing and a redesigned grip safety.\n"
+    "description": "Commonly known simply as \"Colt\", the M1911 is one of the most famous handguns on a planet. It went through both World War's as a standard-issue US Army pistol, and despite that it was replaced in 1986, its further variations are still a sidearm of choice in different US Special Forces. M1911A1 is the further generation of a M1911 pistol, after World War I, the military's Model 1911 went through various changes including shorter trigger with frame cuts, improved sights, an arched mainspring housing and a redesigned grip safety.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/M1911A1",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "M45A1",
@@ -629,7 +941,11 @@
     "cartidge": ".45 ACP",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "The MEU(SOC) pistol, (\"Marine Expeditionary Unit\"; \"Special Operations Capable\") officially designated the M45 MEUSOC,is a magazine-fed, recoil-operated, single-action, semiautomatic pistol chambered for the .45 ACP cartridge. It's a variant of the M1911, and has been the standard-issue side arm for the Force Recon Element of the United States Marine Corps' Marine Expeditionary Units since 1985.The improved M45A1 features several changes to the original M1911A1 design. One feature is the dual recoil spring system that spreads out the recoil force of the .45 ACP round by lowering the peak force of the recoil pulse. It also has 3-dot tritium night sights, a 5-inch national match barrel, ambidextrous safety, picatinny rail, and a desert tan Cerakote finish.\n"
+    "description": "The MEU(SOC) pistol, (\"Marine Expeditionary Unit\"; \"Special Operations Capable\") officially designated the M45 MEUSOC,is a magazine-fed, recoil-operated, single-action, semiautomatic pistol chambered for the .45 ACP cartridge. It's a variant of the M1911, and has been the standard-issue side arm for the Force Recon Element of the United States Marine Corps' Marine Expeditionary Units since 1985.The improved M45A1 features several changes to the original M1911A1 design. One feature is the dual recoil spring system that spreads out the recoil force of the .45 ACP round by lowering the peak force of the recoil pulse. It also has 3-dot tritium night sights, a 5-inch national match barrel, ambidextrous safety, picatinny rail, and a desert tan Cerakote finish.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/M45A1",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "M9A3",
@@ -637,7 +953,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "Beretta M9A3 is a newest modification in a M9 series pistols, it was designed for military and police forces, as well as for sport and a homedefence. Main features of a A3 generation are improved ergonomic and more durable FDE coating.\n"
+    "description": "Beretta M9A3 is a newest modification in a M9 series pistols, it was designed for military and police forces, as well as for sport and a homedefence. Main features of a A3 generation are improved ergonomic and more durable FDE coating.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/M9A3",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "MP-443 \"Grach\"",
@@ -645,7 +965,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "Russian-produced semiautomatic 9x19 pistol, a service weapon of Russian army, special forces of Ministry of internal affairs and other defence and law enforcement agencies.\n"
+    "description": "Russian-produced semiautomatic 9x19 pistol, a service weapon of Russian army, special forces of Ministry of internal affairs and other defence and law enforcement agencies.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/MP-443_%22Grach%22",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "P226R",
@@ -653,7 +977,11 @@
     "cartidge": "9x19mm Parabellum",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "The SIG Sauer P226R is a full-sized, service-type pistol made by SIG Sauer, a standard service weapon of Navy SEALs. Chambered for the 9x19mm Parabellum, features a Picatinny rail mount on the underside of a frame.\n"
+    "description": "The SIG Sauer P226R is a full-sized, service-type pistol made by SIG Sauer, a standard service weapon of Navy SEALs. Chambered for the 9x19mm Parabellum, features a Picatinny rail mount on the underside of a frame.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/P226R",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "PB pistol",
@@ -661,7 +989,11 @@
     "cartidge": "9x18mm Makarov",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "PB silenced pistol (GRAU Index 6П9) was designed for the purposes of army reconnaissance groups and USSR KGB personnel and introduced into service in 1967. Still operated nowadays by FSB special forces and internal troops of Ministry of Internal Affairs.\n"
+    "description": "PB silenced pistol (GRAU Index 6П9) was designed for the purposes of army reconnaissance groups and USSR KGB personnel and introduced into service in 1967. Still operated nowadays by FSB special forces and internal troops of Ministry of Internal Affairs.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/PB_pistol",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "PM (t) pistol",
@@ -669,7 +1001,11 @@
     "cartidge": "9x18mm Makarov",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "A semi-mythical PM with extended barrel and suppressor mount threading. Some claim it was a limited series manufactured in Bulgaria, others insist on DDR, and some are even prone to think of it as a handcrafted upgrade. How did it end up in the Norvinsk region, no living soul can tell.\n"
+    "description": "A semi-mythical PM with extended barrel and suppressor mount threading. Some claim it was a limited series manufactured in Bulgaria, others insist on DDR, and some are even prone to think of it as a handcrafted upgrade. How did it end up in the Norvinsk region, no living soul can tell.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/PM_(t)_pistol",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "PM pistol",
@@ -677,7 +1013,11 @@
     "cartidge": "9x18mm Makarov",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "A time-proven PM. Due to the ubiquitous spread of both pistol and ammo it is still being used by Russian Spetznaz, thanks to exceptional reliability, light weight and compact size. The only serious drawback is its lack of a knockdown power.\n"
+    "description": "A time-proven PM. Due to the ubiquitous spread of both pistol and ammo it is still being used by Russian Spetznaz, thanks to exceptional reliability, light weight and compact size. The only serious drawback is its lack of a knockdown power.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/PM_pistol",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "SR-1MP Gyurza",
@@ -685,7 +1025,11 @@
     "cartidge": "9x21mm Gyurza",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "The Serdyukov semi-automatic pistol - also known as SPS and Gyurza (“Viper”), GRAU index 6P53. Pistol designed for the Russian Federation special forces purposes by P. Serdyukov and I. Belyaev, for 9x21 mm cartridge.\n"
+    "description": "The Serdyukov semi-automatic pistol - also known as SPS and Gyurza (“Viper”), GRAU index 6P53. Pistol designed for the Russian Federation special forces purposes by P. Serdyukov and I. Belyaev, for 9x21 mm cartridge.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/SR-1MP_Gyurza",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "TT pistol",
@@ -693,7 +1037,11 @@
     "cartidge": "7.62x25mm Tokarev",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "A legendary pistol. It has seen numerous military conflicts and is still being in service in certain spots of our planet, in one modification or another. This one is a classic TT-33, the most mass-produced version. It features Browning short-recoil tilting-barrel system, but very different otherwise - purposefully simple, single-action, no safety measures except half-cock notch, it is able to withstand horrible operating abuse. Thanks to the powerful 7.62x25 cartridge and relatively long barrel, TT boasts high muzzle velocity, penetration, and impressive accuracy, even over long distances.\n"
+    "description": "A legendary pistol. It has seen numerous military conflicts and is still being in service in certain spots of our planet, in one modification or another. This one is a classic TT-33, the most mass-produced version. It features Browning short-recoil tilting-barrel system, but very different otherwise - purposefully simple, single-action, no safety measures except half-cock notch, it is able to withstand horrible operating abuse. Thanks to the powerful 7.62x25 cartridge and relatively long barrel, TT boasts high muzzle velocity, penetration, and impressive accuracy, even over long distances.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/TT_pistol",
+    "extra": {
+      "type": "Pistol"
+    }
   },
   {
     "nombre": "TT pistol (gold)",
@@ -701,6 +1049,10 @@
     "cartidge": "7.62x25mm Tokarev",
     "firingModes": "Single\n",
     "rateFire": "30\n",
-    "description": "A legendary pistol. It has seen numerous military conflicts and is still being in service in certain spots of our planet, in one modification or another. This one is a classic TT-33, the most mass-produced version. It features Browning short-recoil tilting-barrel system, but very different otherwise - purposefully simple, single-action, no safety measures except half-cock notch, it is able to withstand horrible operating abuse. Thanks to the powerful 7.62x25 cartridge and relatively long barrel, TT boasts high muzzle velocity, penetration, and impressive accuracy, even over long distances. Special gold edition.\n"
+    "description": "A legendary pistol. It has seen numerous military conflicts and is still being in service in certain spots of our planet, in one modification or another. This one is a classic TT-33, the most mass-produced version. It features Browning short-recoil tilting-barrel system, but very different otherwise - purposefully simple, single-action, no safety measures except half-cock notch, it is able to withstand horrible operating abuse. Thanks to the powerful 7.62x25 cartridge and relatively long barrel, TT boasts high muzzle velocity, penetration, and impressive accuracy, even over long distances. Special gold edition.\n",
+    "href": "https://escapefromtarkov.gamepedia.com/TT_pistol_(gold)",
+    "extra": {
+      "type": "Pistol"
+    }
   }
 ]
