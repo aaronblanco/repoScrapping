@@ -43,6 +43,36 @@ init();
 
     }
 }*/
+    const options = {
+    method: "GET"
+    };
+
+    async function getExtras(){
+    // Petición HTTP
+    var extras2;
+    fetch('http://localhost:8080/api/extras/', options)
+    .then(response => response.text())
+    .then(data => {       
+        //console.log("ESTO ES DATA "+data);     
+        extras2 = data;
+        console.log(data)
+    });
+        return extras2;
+
+    }
+
+    async function obtener(unicos, i){
+        fetch('http://localhost:8080/api/extras/', {
+            method: "POST",
+            headers: {
+                Accept: "application/json",
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(unicos[i])
+        });
+    }
+    
+    
 
 
 async function getSimplePage(webpage){
@@ -131,52 +161,20 @@ async function init(){
         
         armasData.extra = await weaponScrapp(armasData.href);
 
-       // if (!extra.has(armasData.extra)){
-       
         extra.push(armasData.extra)
-        //
+     
 
         
         //En caso de que no exista el Extra recien descubierto, lo creamos y guardamos para no repetirlo
         
-       /* if(!extra.includes(armasData.extra)){
-            extra.push(armasData.extra)
     
-            //Crear nuevo Extra en la BD
-            fetch('http://localhost:8080/api/extras/', {
-                method: "POST",
-                headers: {
-                    Accept: "application/json",
-                    "Content-Type": "application/json"
-                },
-                body: JSON.stringify(armasData.extra)
-         });
-    
-        }else {
-            print("No estoy dentro")
-        } */
-        
-        //Crear nueva Arma en la BD
-       /* fetch('http://localhost:8080/api/extras', {
-         method: "POST",
-         headers: {
-            Accept: "application/json",
-            "Content-Type": "application/json"
-            },
-            body: JSON.stringify({
-                username: "foo",
-                password: "bar"
-            })
-        });*/
 
         //Plan maestro: cambiar "arraylist" por array e insertar valores en la posición correspondiente a index, de forma que se quede ordenado 100% seguro
        
         this.armas[index] = armasData;
        
         cont_armas++; 
-        //console.log(cont_armas + " / "+tabla.length)
-        //console.log(cont_armas)
-
+      
        //Solo escribimos el JSON en caso de que estemos en la ultima iteración real (ya que trabajamos de forma asíncrona, usamos el contador para descubrirla)
         if(cont_armas == tabla_armas.length){
             //var file = './temp/armas.json'
@@ -188,49 +186,64 @@ async function init(){
                 return el != null;
               });
 
-            /*jsonFile.writeFile(file, limpio, {spaces: 2}).then(res => {
-               console.log("Armas write complete")
-           }).catch(error => console.error(error))*/
          
            unicos = [];
+
+           // Recorremos a fuerza bruta todos los elementos "extra" acumulados
            for(var i= 0; i< extra.length; i++){
 
-           /* fetch('http://localhost:8080/api/extras/', {
-                method: "POST",
-                headers: {
-                    Accept: "application/json",
-                    "Content-Type": "application/json"
-                },
-                body: JSON.stringify(cosos.next())
-            });*/
-
-           
+            
+            //Creamos un booleano para saber si el extra en cuestión ya está presente
+            var encontrado = false;
           
-            if(!unicos[i].find(el -> el.type == extra[i].type))
-            {
-                unicos.push(extra[i])
+               
+            //Recorremos el array con aquellos extras ya introducidos para ver si ya los hemos considerado
+            for (var j = 0; j < unicos.length; j++){
+
+                //En caso de que haya una coincidencia, lo marcamos
+                if(extra[i].type == unicos[j].type ){
+                    encontrado = true;
+                    break;                 
+                }
             }
 
-         
-
-
+            //Si no hay coincidencias, entonces añadimos este extra a nuestra lista sin repetidos
+             if(encontrado == false){
+                unicos.push(extra[i])
+                
+             }  
            }
+
+
+           //Introducimos todos los extra sin repetir en la BD
            for(var i= 0; i< unicos.length; i++){
-            fetch('http://localhost:8080/api/extras/', {
+            await(obtener(unicos, i));
+           }
+
+            var peticion = await (getExtras());
+            console.log(peticion);
+            
+    
+
+
+ 
+            //console.log("ESTO ES EXTRAs2 " + extras2)
+           // Introducimos en la BD las armas
+           for(var i= 0; i< armas.length; i++){
+
+            //Comprobamos cual es el extra y reasignamos a la URL correspondiente
+           
+            fetch('http://localhost:8080/api/armases/', {
                 method: "POST",
                 headers: {
                     Accept: "application/json",
                     "Content-Type": "application/json"
                 },
-                body: JSON.stringify(unicos[i])
+                body: JSON.stringify(armas[i])
             });
            }
 
-
-
         }
-  
-    //console.log(index);
 
     }) 
 
